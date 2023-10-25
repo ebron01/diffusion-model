@@ -1,0 +1,6 @@
+IPython
+einops 
+datasets 
+matplotlib 
+tqdm
+torch
